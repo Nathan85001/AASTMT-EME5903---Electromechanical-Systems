@@ -86,7 +86,7 @@ AASTMT-EME5903-Electromechanical-Systems/
    ```bash
    git clone https://github.com/Nathan85001/AASTMT-EME5903---Electromechanical-Systems.git
    cd AASTMT-EME5903---Electromechanical-Systems
-````
+
 
 2. Launch MATLAB and set the working folder to the repository root.
 
